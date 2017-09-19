@@ -1,0 +1,6 @@
+c:\users\tammiemarie\documents\visual studio 2017\Projects\Lab3_MethodVersion\Lab3_MethodVersion\obj\Debug\Lab3_MethodVersion.csprojResolveAssemblyReference.cache
+c:\users\tammiemarie\documents\visual studio 2017\Projects\Lab3_MethodVersion\Lab3_MethodVersion\bin\Debug\Lab3_MethodVersion.exe.config
+c:\users\tammiemarie\documents\visual studio 2017\Projects\Lab3_MethodVersion\Lab3_MethodVersion\bin\Debug\Lab3_MethodVersion.exe
+c:\users\tammiemarie\documents\visual studio 2017\Projects\Lab3_MethodVersion\Lab3_MethodVersion\bin\Debug\Lab3_MethodVersion.pdb
+c:\users\tammiemarie\documents\visual studio 2017\Projects\Lab3_MethodVersion\Lab3_MethodVersion\obj\Debug\Lab3_MethodVersion.exe
+c:\users\tammiemarie\documents\visual studio 2017\Projects\Lab3_MethodVersion\Lab3_MethodVersion\obj\Debug\Lab3_MethodVersion.pdb
